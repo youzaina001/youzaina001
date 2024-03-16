@@ -1,16 +1,39 @@
-### Hi there 👋
+# Welcome to My GitHub Portfolio 👋
 
-<!--
-**youzaina001/youzaina001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- **Programming Languages:**
+  - Python
+  - C
+  - C++
+  - SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Visualization:**
+  - PowerBI
+  - Tableau
+
+- **Data Processing & Analytics:**
+  - Pandas
+  - Scikit-Learn
+  - TensorFlow
+  - PyTorch
+
+- **Data Integration & ETL:**
+  - Alteryx
+
+- **Cloud Computing:**
+  - AWS
+
+- **Version Control & Collaboration:**
+  - Git
+
+- **Containerization & Deployment:**
+  - Docker
+  - Jenkins
+
+- **Big Data Technologies:**
+  - Hadoop
+
+## Contact Me
+
+Feel free to reach out to me via email at [ouzaina.yassine@gmail.com](mailto:ouzaina.yassine@gmail.com) or via my Linkedin profile page at https://www.linkedin.com/in/youzaina001/.
