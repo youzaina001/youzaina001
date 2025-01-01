@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio 👋
 
-Hi there! I'm **Yassine Ouzaina** 👨‍💻, and welcome to my GitHub page! Here, I showcase my projects and contributions in **AI**, **data science**, and **financial data processing** 📊. I specialize in transforming data into actionable insights and building intelligent systems for real-world applications 🚀. Explore my repositories and feel free to connect!
+Hi there! I'm **Yassine Ouzaina** 👨‍💻, and welcome to my GitHub page! Here, I showcase my projects and contributions in **AI**, **data science**, and **data processing** 📊. I specialize in transforming data into actionable insights and building intelligent systems for real-world applications 🚀. Explore my repositories and feel free to connect!
 
 ---
 
