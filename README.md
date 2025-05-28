@@ -22,12 +22,12 @@ My expertise spans across the full data lifecycle, from ingestion and processing
     * Developed and optimized data pipelines for a SaaS product, processing tens of gigabytes of data daily.
     * Automated ETL processes, reducing data access time by 40%.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=social&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=social&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=social&logo=sqlite&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=social&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=social&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=social&logo=apachekafka&logoColor=white)
 
 ### ☁️ Cloud Architecture & Platforms
 * **Azure:** Azure Data Factory, Databricks, General cloud architecture
