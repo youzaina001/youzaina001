@@ -77,7 +77,7 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 ## 🧰 Tech Toolbox  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,airflow,aws,azure,gcp,databricks,docker,git,pyspark,pandas&perline=9" alt="tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda,pyspark,airflow,bash,docker,git,pandas,aws,azure,gcp,github,githubactions,grafana,kubernetes,notion,postman,ubuntu,vscode,&perline=9" alt="data engineering tech stack icons" />
 </p>
 
 <p align="center">
