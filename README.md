@@ -1,96 +1,103 @@
-# Yassine OUZAINA 👨‍💻
-**Data Engineer | ML Industrialization | Cloud Architecture (AWS, Azure, GCP)**
+# 👋 Hi, I'm Yassine OUZAINA  
+### 💡 Data Engineer @ Owkin | ML Industrialization | Cloud Architecture (AWS, Azure, GCP)
 
-[ouzaina.yassine.ai@gmail.com](mailto:ouzaina.yassine.ai@gmail.com) | [LinkedIn](https://linkedin.com/in/youzaina001/) | [GitHub](https://github.com/youzaina001) | Paris, France
-
----
-
-👋 Hello! I'm Yassine, a Data Engineer with proven experience in designing robust data pipelines and industrializing machine learning models, notably at re:mind (start-up). I specialize in transforming complex data into actionable insights and building intelligent, scalable systems for real-world applications. My work has included processing tens of gigabytes of data daily and significantly improving data access times (e.g., by 40% in a SaaS environment). I am skilled in cloud architecture across GCP, AWS, and Azure, and the automation of ETL workflows.
-
-I'm actively seeking new opportunities in Data & AI where I can leverage my expertise to drive innovation and business value.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youzaina001/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/youzaina001)
+[![Email](https://img.shields.io/badge/Email-ouzaina.yassine.ai%40gmail.com-blue?style=for-the-badge)](mailto:ouzaina.yassine.ai@gmail.com)
+📍 Paris, France  
 
 ---
 
-## 🚀 Core Competencies & Skills
+## 🧬 About Me
 
-My expertise spans across the full data lifecycle, from ingestion and processing to deployment and monitoring.
+I'm a **Data Engineer at [Owkin](https://www.owkin.com)**, building **data platforms and pipelines** powering AI-driven biomedical research.  
+I design and optimize **scalable data architectures**, streamline **ETL/ELT workflows**, and **industrialize ML models** to bring cutting-edge science into production.
 
-### 🔧 Data Engineering & ETL
-* **Data Pipelines & Processing:** Apache Spark (PySpark, Scala), Apache Airflow, SQL, dbt, Apache Kafka
-* **ETL Automation & Optimization:** Talend, Custom Python scripting
-* **Achievements:**
-    * Developed and optimized data pipelines for a SaaS product, processing tens of gigabytes of data daily.
-    * Automated ETL processes, reducing data access time by 40%.
+Previously at **re:mind**, I helped optimize a SaaS data platform—reducing data access latency by **40 %**—and contributed to **automating ML pipelines** in the cloud.  
+I’m passionate about bridging **engineering excellence** with **AI innovation** to drive measurable real-world impact.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+---
 
-### ☁️ Cloud Architecture & Platforms
-* **Azure:** Azure Data Factory, Databricks, General cloud architecture
-* **AWS:** S3, Lambda, Redshift
-* **GCP:** BigQuery, Vertex AI
-* **Experience:** Contributed to designing scalable cloud architectures tailored to analytical needs, ensuring optimal performance and cost efficiency.
+## 🚀 Core Expertise
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Data Engineering & Processing** | Apache Spark (PySpark, Scala), Airflow, dbt, SQL, Kafka |
+| **Cloud & Architecture** | Azure (ADF, Databricks), AWS (S3, Lambda, Redshift), GCP (BigQuery, Vertex AI) |
+| **Machine Learning & MLOps** | Scikit-Learn, TensorFlow, MLflow, Docker, GitHub Actions |
+| **Data Quality & Governance** | Polars, Pandera, Pointblank, Data Validation Frameworks |
+| **HPC & Performance** | Slurm, MPI, CUDA, OpenMP |
+| **Data Visualization** | Power BI, Dash, Streamlit |
 
-### 🧠 Machine Learning & AI
-* **Model Development:** Scikit-Learn, TensorFlow, Pandas, NumPy
-* **MLOps & Deployment:** Deployment and monitoring of ML models in production (Docker, GitHub Actions).
-* **Experience:**
-    * Developed supervised and unsupervised ML models for large datasets.
-    * Optimized prediction algorithms, enhancing model accuracy by 20%.
+---
 
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## 💼 Experience
 
-### ⚙️ DevOps, Databases & Tools
-* **Programming:** Python, Scala, Bash scripting, C
-* **DevOps & Deployment:** Docker, GitHub Actions, CI/CD, Azure DevOps
-* **Databases:** PostgreSQL, Microsoft SQL Server, MongoDB
-* **Version Control & Collaboration:** Git, Jira, Scrum
-* **HPC:** Slurm, MPI, OpenMP, CUDA, OpenCL  (from HPC internship)
-* **Data Visualization:** PowerBI
+### 🧬 **Data Engineer – Owkin** (Paris, 2025 – Present)
+> Empowering biomedical research through data engineering & AI
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Key Contributions:**
+- Designed and maintained **high-throughput data pipelines** enabling large-scale AI model training on clinical and omics datasets.  
+- Automated **ETL & data standardization workflows** across heterogeneous biomedical sources.  
+- Built **scalable architectures** in collaboration with ML and product teams, ensuring data quality and reproducibility.  
+- Enhanced **data observability** and lineage tracking for AI experimentation.
+
+**Tech Stack:** Python • Airflow • DuckDB • Polars • Pointblank • AWS • Docker • GitHub Actions • SQL  
+
+---
+
+### ☁️ **Data Engineer – re:mind** (Paris, 2024 – 2025)
+- Developed and optimized **ETL pipelines** processing tens of GB of data daily.  
+- Automated workflows, **reducing data access time by 40 %** and improving analytics throughput.  
+- Deployed ML models into production using **Docker + CI/CD pipelines**.  
+- Contributed to **Azure/Databricks architecture** design for scalability and cost-efficiency.
+
+**Stack:** Python • PySpark • Airflow • Talend • Azure • Databricks • Power BI  
+
+---
+
+### 🧮 **HPC Engineer – Eviden** (2023)
+- Benchmarked deep-learning workloads on CPU/GPU clusters.  
+- Developed **Python automation tools** to optimize performance testing.  
+- Collaborated across R&D teams to modernize HPC benchmarking workflows.
+
+**Stack:** Python • Bash • Slurm • MPI • CUDA • OpenMP  
 
 ---
 
 ## 🎓 Education & Certifications
 
-* **Master's, Big Data & AI** - ESG, France (2023-2024)
-* **Master of Engineering in Applied Mathematics** - Enseirb-Matmeca, France (2020-2023)
-* **2-year highly selective classes to prepare for French Engineering schools** - Morocco (2018-2020)
+🎓 **MEng in Applied Mathematics** – Enseirb-Matmeca
 
-📜 **Certifications:**
-* Building RAG Agents with LLMs - NVIDIA (December 2024)
-* Large Language Models: Application through Production - Databricks (May 2024)
-
----
-
-## 💡 Projects & Portfolio
-
-Explore my repositories below for a deeper dive into my work! I particularly recommend checking out my **pinned projects** for a curated showcase of my capabilities in action.
+📜 **Certifications:**  
+- Building RAG Agents with LLMs – NVIDIA (2024)  
+- Large Language Models: Application through Production – Databricks (2024)  
+- Deep Learning with Python and PyTorch – IBM  
+- AI Agents Fundamentals – NVIDIA  
 
 ---
 
-## 🌟 Let's Connect!
+## 🧰 Tech Toolbox
 
-I'm always open to discussing new projects, collaborations, or opportunities in the Data and AI space. Feel free to reach out!
-
-📧 Email: [ouzaina.yassine.ai@gmail.com](mailto:ouzaina.yassine.ai@gmail.com)
-🔗 LinkedIn: [linkedin.com/in/youzaina001/](https://www.linkedin.com/in/youzaina001/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logoColor=black)
+![Pointblank](https://img.shields.io/badge/Pointblank-6D4AFF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAQAAACENnwnAAAAPUlEQVR42mNgYGD4z4AAwEiAGTAyMjIC4dIAAwPDw0+DGCBLBYBPCQhBiZGRgYFRh0JkAURQ4ZIgDgKAwA2mgiN06J22wAAAABJRU5ErkJggg==)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-Thanks for visiting my GitHub profile!
+## 🌟 Let’s Connect
+
+💬 Always open to collaborating on **Data / AI / MLOps** initiatives  
+📧 [ouzaina.yassine.ai@gmail.com](mailto:ouzaina.yassine.ai@gmail.com)  
+🔗 [linkedin.com/in/youzaina001](https://linkedin.com/in/youzaina001)  
+
+⭐ Explore my **pinned projects** below — showcasing work in ETL automation, ML deployment, and generative AI for data systems.
