@@ -77,25 +77,13 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 ## 🧰 Tech Toolbox  
 
 <p align="center">
-  <!-- Skillicons-supported icons -->
-  <img src="https://skillicons.dev/icons?i=python,airflow,aws,azure,gcp,databricks,docker,githubactions,sqlite,pandas,sklearn,tensorflow,pytorch,git,bash&perline=9" alt="tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=python,airflow,aws,azure,gcp,databricks,docker,git,pyspark,pandas&perline=9" alt="tech stack icons" />
 </p>
 
 <p align="center">
-  <!-- Extra icons not in skillicons -->
-  <img alt="DuckDB" src="https://cdn.simpleicons.org/duckdb/fff000/000000" height="42"/>
-  <img alt="Polars" src="https://cdn.simpleicons.org/polars/5A4FCF/ffffff" height="42"/>
-  <img alt="Pointblank" height="42"
-       src="data:image/svg+xml;utf8,
-       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'>
-         <circle cx='32' cy='32' r='32' fill='%236D4AFF'/>
-         <text x='50%%' y='57%%' text-anchor='middle'
-               font-family='Segoe UI, Ubuntu, sans-serif'
-               font-weight='700' font-size='28' fill='white'>PB</text>
-       </svg>" />
+    <img alt="DuckDB" src="https://cdn.simpleicons.org/duckdb/fff000/000000" height="42"/>
+  <img alt="Polars" src="https://cdn.simpleicons.org/polars/5A4FCF/ffffff" height="42"/>
 </p>
-
-> 📦 *Data validation powered by [Pointblank](https://posit.co/blog/introducing-pointblank-for-python/)*  
 
 ---
 
@@ -109,20 +97,6 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaina001&bg_color=0d1117&color=00C9A7&line=00C9A7&point=FFFFFF&hide_border=true"/>
 </p>
-
----
-
-## 🐍 Watch my contributions come alive!  
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/youzaina001/youzaina001/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/youzaina001/youzaina001/output/snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/youzaina001/youzaina001/output/snake.svg" width="100%"/>
-  </picture>
-</p>
-
----
 
 ## ☀️ Let’s Connect  
 
