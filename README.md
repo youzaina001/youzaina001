@@ -13,7 +13,7 @@
 I'm a **Data Engineer at [Owkin](https://www.owkin.com)**, building **data platforms and pipelines** that power AI-driven biomedical research.  
 I design and optimize **scalable data architectures**, streamline **ETL/ELT workflows**, and **industrialize ML models** to bring cutting-edge science into production.
 
-Previously at **re:mind**, I optimized SaaS data pipelines — reducing data access latency by **40 %** — and automated ML workflows in the cloud.  
+Previously at **re:mind**, I optimized SaaS data pipelines - reducing data access latency by **40 %** - and automated ML workflows in the cloud.  
 I’m passionate about bridging **engineering excellence** with **AI innovation** to drive measurable, real-world impact.
 
 ---
@@ -33,7 +33,7 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 
 ## 💼 Experience
 
-### 🧬 **Data Engineer – Owkin** (Paris · 2025 – Present)
+### 🧬 **Data Engineer - Owkin** (Paris · 2025 - Present)
 > Empowering biomedical research through data engineering & AI
 
 **Key Contributions**
@@ -46,15 +46,15 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 
 ---
 
-### ☁️ **Data Engineer – re:mind** (Paris · 2024 – 2025)
+### ☁️ **Data Engineer - re:mind** (Paris · 2024 - 2025)
 - Developed / optimized **ETL pipelines** processing tens of GB daily  
-- Automated workflows → **–40 % data-access latency**  
+- Automated workflows → **-40 % data-access latency**  
 - Deployed ML models with **Docker + CI/CD**  
 - Designed **Azure / Databricks** architecture for scalability + efficiency  
 
 ---
 
-### 🧮 **HPC Engineer – Eviden** (2023)
+### 🧮 **HPC Engineer - Eviden** (2023)
 - Benchmarked deep-learning workloads on CPU/GPU clusters  
 - Built **Python automation tools** for benchmarking & reproducibility  
 - Collaborated across R&D teams to modernize HPC performance workflows  
@@ -63,14 +63,14 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 
 ## 🎓 Education & Certifications
 
-🎓 **MEng Applied Mathematics** – Enseirb-Matmeca  
-🎓 **Mastère Spécialisé Big Data & AI** – ESG  
+🎓 **MEng Applied Mathematics** - Enseirb-Matmeca  
+🎓 **Mastère Spécialisé Big Data & AI** - ESG  
 
 📜 **Certifications**  
-- Building RAG Agents with LLMs – NVIDIA (2024)  
-- Large Language Models: Application through Production – Databricks (2024)  
-- Deep Learning with Python and PyTorch – IBM  
-- AI Agents Fundamentals – Hugging Face
+- Building RAG Agents with LLMs - NVIDIA (2024)  
+- Large Language Models: Application through Production - Databricks (2024)  
+- Deep Learning with Python and PyTorch - IBM  
+- AI Agents Fundamentals - Hugging Face
 
 ---
 
