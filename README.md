@@ -69,10 +69,11 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 <img src="https://img.icons8.com/emoji/48/000000/toolbox-emoji.png" width="30"/> Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,airflow,aws,azure,gcp,databricks,docker,githubactions,sqlite,duckdb,polars,pandas,pytorch,tensorflow,git,powershell,bash&perline=8" alt="Tech stack icons"/>
+  <!-- Each icon below corresponds to your real toolset -->
+  <img src="https://skillicons.dev/icons?i=python,airflow,duckdb,polars,aws,docker,githubactions,sqlite,git&perline=9" alt="tech stack icons" />
 </p>
 
 ---
@@ -80,12 +81,15 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youzaina001&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youzaina001&theme=tokyonight&hide_border=true" height="165">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=youzaina001&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00C9A7&title_color=00C9A7" height="165"/>
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youzaina001&theme=tokyonight&hide_border=true&fire=00C9A7&currStreakLabel=00C9A7" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaina001&bg_color=0d1117&color=79dafa&line=79dafa&point=FFFFFF&hide_border=true" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaina001&bg_color=0d1117&color=00C9A7&line=00C9A7&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -93,7 +97,7 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 ## 🐍 Watch my contributions come alive!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/youzaina001/youzaina001/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/youzaina001/youzaina001/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 </p>
 
 ---
