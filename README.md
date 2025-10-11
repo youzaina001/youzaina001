@@ -115,6 +115,12 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=youzaina001&bg_color=0d1117&color=00C9A7&line=00C9A7&point=FFFFFF&hide_border=true"/>
 </p>
 
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=youzaina001&label=Profile+Views&color=00C9A7&style=flat-square" alt="Profile views counter"/>
+</p>
+
 ## ☀️ Let’s Connect  
 
 💬 Always open to collaborations in **Data / AI / MLOps**  
