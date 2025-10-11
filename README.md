@@ -77,12 +77,29 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 ## 🧰 Tech Toolbox  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,pyspark,airflow,bash,docker,git,pandas,aws,azure,gcp,github,githubactions,grafana,kubernetes,notion,postman,ubuntu,vscode,&perline=9" alt="data engineering tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vscode,&perline=9" alt="data engineering tech stack icons" />
 </p>
 
 <p align="center">
-    <img alt="DuckDB" src="https://cdn.simpleicons.org/duckdb/fff000/000000" height="42"/>
-  <img alt="Polars" src="https://cdn.simpleicons.org/polars/5A4FCF/ffffff" height="42"/>
+    <img alt="Python" src="https://cdn.simpleicons.org/python/3776AB" height="42"/>
+    <img alt="Anaconda" src="https://cdn.simpleicons.org/anaconda/44A833" height="42"/>
+    <img alt="GNU Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" height="42"/>
+    <img alt="Docker" src="https://cdn.simpleicons.org/docker/2496ED" height="42"/>
+    <img alt="Git" src="https://cdn.simpleicons.org/git/F05032" height="42"/>
+    <img alt="GitHub" src="https://cdn.simpleicons.org/github/2088FF" height="42"/>
+    <img alt="GitGub Actions" src="https://cdn.simpleicons.org/githubactions/F05032" height="42"/>
+    <img alt="Grafana" src="https://cdn.simpleicons.org/grafana/F46800" height="42"/>
+    <img alt="Kubernetes" src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42"/>
+    <img alt="Notion" src="https://cdn.simpleicons.org/notion/000000" height="42"/>
+    <img alt="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" height="42"/>
+    <img alt="Ubuntu" src="https://cdn.simpleicons.org/ubuntu/E95420" height="42"/>
+    <img alt="VsCode" src="https://cdn.simpleicons.org/kubernetes/326CE5" height="42"/>
+    <img alt="DuckDB" src="https://cdn.simpleicons.org/duckdb/FFF000" height="42"/>
+    <img alt="Polars" src="https://cdn.simpleicons.org/polars/5A4FCF" height="42"/>
+    <img alt="Pydantic" src="https://cdn.simpleicons.org/pydantic/E92063" height="42"/>
+    <img alt="UV" src="https://cdn.simpleicons.org/uv/DE5FE9" height="42"/>
+    <img alt="Databricks" src="https://cdn.simpleicons.org/databricks/FF3621" height="42"/>
+    <img alt="Apache Spark" src="https://cdn.simpleicons.org/apachespark/E25A1C" height="42"/>
 </p>
 
 ---
