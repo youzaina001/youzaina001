@@ -1,4 +1,4 @@
-# Hi, I'm Yassine OUZAINA 👋
+# Hi, I'm Yassine 👋
 
 **Data Engineer | Analytics Engineering | Data Platforms | AI/ML Data**  
 
