@@ -1,78 +1,119 @@
-# 👋 Hi, I'm Yassine OUZAINA  
-### 💡 Data Engineer @ Owkin | ML Industrialization | Cloud Architecture (AWS, Azure, GCP)
+# Hi, I'm Yassine OUZAINA 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/youzaina001)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/youzaina001)
-[![Email](https://img.shields.io/badge/Email-ouzaina.yassine.ai%40gmail.com-0078D4?logo=gmail&logoColor=white&style=flat-square)](mailto:ouzaina.yassine.ai@gmail.com)
-📍 Paris, France  
+**Data Engineer | Analytics Engineering | Data Platforms | AI/ML Data**  
 
----
+Based in Paris, France
 
-## 🧬 About Me
+I build reliable data systems that turn complex, messy, and high-value data into trusted datasets, analytics-ready models, and production-grade workflows.
 
-I'm a **Data Engineer at [Owkin](https://www.owkin.com)**, building **data platforms and pipelines** that power AI-driven biomedical research.  
-I design and optimize **scalable data architectures**, streamline **ETL/ELT workflows**, and **industrialize ML models** to bring cutting-edge science into production.
+Currently, I work as a **Data Engineer at Owkin**, where I contribute to data pipelines, data quality frameworks, and curated biomedical datasets used by research, data science, and engineering teams.
 
-Previously at **re:mind**, I optimized SaaS data pipelines - reducing data access latency by **40 %** - and automated ML workflows in the cloud.  
-I’m passionate about bridging **engineering excellence** with **AI innovation** to drive measurable, real-world impact.
+I enjoy working at the intersection of **data engineering, analytics engineering, software engineering, and applied ML**, with a strong focus on reliability, reproducibility, maintainability, and real-world impact.
 
 ---
 
-## 🚀 Core Expertise
+## What I Work On
 
-| Domain | Technologies |
-|---------|---------------|
-| **Data Engineering & Processing** | PySpark • Airflow • dbt • SQL • Kafka |
-| **Cloud & Architecture** | Azure (ADF, Databricks) • AWS (S3, Lambda, Redshift) • GCP (BigQuery, Vertex AI) |
-| **Machine Learning & MLOps** | Scikit-Learn • TensorFlow • MLflow • Docker • GitHub Actions |
-| **Data Quality & Governance** | Polars • **Pointblank** (data validation) • Pandera |
-| **HPC & Performance** | Slurm • MPI • CUDA • OpenMP |
-| **Visualization** | Power BI • Dash • Streamlit |
+- Designing and maintaining robust **ETL/ELT pipelines**
+- Building **analytics-ready data models** and trusted datasets
+- Implementing **data quality and validation frameworks**
+- Productionizing data and ML workflows
+- Improving code quality through typing, testing, packaging, CI/CD, and documentation
+- Working with complex biomedical, SaaS, and large-scale datasets
 
 ---
 
-## 💼 Experience
+## Core Skills
 
-### 🧬 **Data Engineer - Owkin** (Paris · 2025 - Present)
-> Empowering biomedical research through data engineering & AI
+### Data Engineering
+`Python` · `SQL` · `PySpark` · `Databricks` · `DuckDB` · `ETL/ELT` · `Data Modeling`
 
-**Key Contributions**
-- Built **high-throughput data pipelines** enabling large-scale AI model training on clinical / omics datasets  
-- Automated **ETL + data standardization** across heterogeneous biomedical sources  
-- Integrated **Pointblank** data-validation checks for quality and schema assurance  
-- Designed **scalable architectures** ensuring reproducibility + observability across ML experiments  
+### Analytics Engineering
+`KPI logic` · `SQL transformations` · `Data quality` · `Validation` · `Trusted datasets` · `Analytics-ready models`
 
-**Tech Stack:** `Python • Airflow • DuckDB • Polars • Pointblank • AWS • Docker • GitHub Actions • SQL`
+### Software Engineering
+`Typing` · `Testing` · `Packaging` · `Code reviews` · `CI/CD` · `Docker` · `Linux/Bash`
 
----
+### AI / ML Data
+`Feature preparation` · `Model evaluation` · `ML workflow productionization` · `Reproducibility` · `RAG & LLM basics`
 
-### ☁️ **Data Engineer - re:mind** (Paris · 2024 - 2025)
-- Developed / optimized **ETL pipelines** processing tens of GB daily  
-- Automated workflows → **-40 % data-access latency**  
-- Deployed ML models with **Docker + CI/CD**  
-- Designed **Azure / Databricks** architecture for scalability + efficiency  
+### Tools & Cloud
+`Azure` · `Databricks` · `GitHub Actions` · `Docker` · `Polars` · `Pandas` · `Pointblank`
 
 ---
 
-### 🧮 **HPC Engineer - Eviden** (2023)
-- Benchmarked deep-learning workloads on CPU/GPU clusters  
-- Built **Python automation tools** for benchmarking & reproducibility  
-- Collaborated across R&D teams to modernize HPC performance workflows  
+## Experience
+
+### Data Engineer @ Owkin  
+**Paris, France · 2025 - Present**
+
+Working on biomedical real-world data pipelines, curated tabular models, and data quality frameworks for research and AI-driven healthcare use cases.
+
+Key focus areas:
+- Biomedical data transformation pipelines
+- Data quality checks and validation rules with `Polars` and `Pointblank`
+- Analytics-ready datasets for research and data science teams
+- Reproducible and maintainable engineering workflows
 
 ---
 
-## 🎓 Education & Certifications
+### Data Engineer @ re:mind  
+**Paris, France · 2023 - 2025**
 
-🎓 **MEng Applied Mathematics** - Enseirb-Matmeca  
-🎓 **Mastère Spécialisé Big Data & AI** - ESG  
+Worked on data pipelines, analytics datasets, KPI logic, and ML workflow productionization for business and GTM use cases.
 
-📜 **Certifications**  
-- Building RAG Agents with LLMs - NVIDIA (2024)  
-- Large Language Models: Application through Production - Databricks (2024)  
-- Deep Learning with Python and PyTorch - IBM  
-- AI Agents Fundamentals - Hugging Face
+Key focus areas:
+- Batch ingestion and transformation pipelines
+- PySpark / Databricks optimization
+- Productionizing notebooks into maintainable code
+- Data models and KPIs for business decision-making
 
 ---
+
+### Research Engineer Intern @ Eviden  
+**Bordeaux, France · 2023**
+
+Worked on performance engineering and benchmarking for high-performance computing workloads.
+
+Key focus areas:
+- Benchmark automation
+- Performance profiling
+- CPU, memory, and I/O bottleneck analysis
+- Python, C, Bash, and parallel computing
+
+---
+
+## Education
+
+- **Engineering Degree / MEng-equivalent in Applied Mathematics** @ ENSEIRB-MATMECA
+
+---
+
+## Certifications
+
+- Astronomer Certification DAG Authoring for Apache Airflow 3
+- AI Agents Fundamentals from Hugging Face
+- Building RAG Agents with LLMs from NVIDIA
+- Large Language Models: Application through Production from Databricks
+
+---
+
+## Selected Interests
+
+- Data platforms for AI
+- Analytics engineering
+- Biomedical data
+- Data quality and validation
+- ML workflow industrialization
+- RAG, LLMs, and agentic AI systems
+
+---
+
+## Let's Connect
+
+- LinkedIn: [linkedin.com/in/youzaina001](https://www.linkedin.com/in/youzaina001/)
+- GitHub: [github.com/youzaina001](https://github.com/youzaina001)
+- Email: [youzaina@youzaina.fr](mailto:youzaina@youzaina.fr)
 
 ## 🧰 Tech Toolbox  
 
@@ -120,11 +161,3 @@ I’m passionate about bridging **engineering excellence** with **AI innovation*
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=youzaina001&label=Profile+Views&color=00C9A7&style=flat-square" alt="Profile views counter"/>
 </p>
-
-## ☀️ Let’s Connect  
-
-💬 Always open to collaborations in **Data / AI / MLOps**  
-📧 [ouzaina.yassine.ai@gmail.com](mailto:ouzaina.yassine.ai@gmail.com)  
-🔗 [linkedin.com/in/youzaina001](https://linkedin.com/in/youzaina001)  
-
-⭐ Explore my **pinned projects** — from ETL automation to ML industrialization & generative AI.  
