@@ -1,27 +1,27 @@
 # Yassine Ouzaina
 
-**Data Engineer at [Owkin](https://www.owkin.com)** · Paris
+**Data Engineer at [Owkin](https://www.owkin.com)**, Paris
 
 Pipelines, data quality, and tabular datasets for research and ML teams.
 
-[LinkedIn](https://www.linkedin.com/in/youzaina001/) · [youzaina@youzaina.fr](mailto:youzaina@youzaina.fr)
+[LinkedIn](https://www.linkedin.com/in/youzaina001/) | [youzaina@youzaina.fr](mailto:youzaina@youzaina.fr)
 
 ## Experience
 
 **Owkin**, Data Engineer, Paris, 2025-present
 Biomedical real-world data.
-- Transformation pipelines and curated tabular models
+- Transformation pipelines and tabular models
 - Quality checks in Polars and Pointblank
 - Datasets used by research and data science
 
 **re:mind**, Data Engineer, Paris, 2023-2025
 GTM and business analytics.
-- Batch ingestion and Spark / Databricks jobs
-- Notebooks turned into packaged, tested code
-- KPI models used in decision-making
+- Batch ingestion and Spark/Databricks jobs
+- Turned notebooks into production Python
+- KPI models for business decisions
 
 **Eviden**, Research Engineer Intern, Bordeaux, 2023
-HPC benchmarking: automated runs, profiling, CPU / memory / I/O bottlenecks. Python, C, Bash.
+HPC benchmarking: automated runs, profiling, CPU/memory/I/O bottlenecks. Python, C, Bash.
 
 ## Selected work
 
@@ -30,7 +30,7 @@ HPC benchmarking: automated runs, profiling, CPU / memory / I/O bottlenecks. Pyt
 
 ## Stack
 
-Python · SQL · PySpark · Databricks · Airflow · Polars · DuckDB · Azure · Docker
+Python, SQL, PySpark, Databricks, Airflow, Polars, DuckDB, Azure, Docker
 
 ## Education
 
