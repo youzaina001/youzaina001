@@ -30,10 +30,10 @@ HPC benchmarking: automated runs, profiling, CPU/memory/I/O bottlenecks. Python,
 
 ## Stack
 
-Python, SQL, PySpark, Databricks, Airflow, Polars, DuckDB, Azure, Docker
+Python, SQL, PySpark, Databricks, Airflow, Polars, DuckDB, AWS, Docker
 
 ## Education
 
-Ingénieur, Applied Mathematics, ENSEIRB-MATMECA
+Engineer, Applied Mathematics, ENSEIRB-MATMECA
 
 Astronomer, DAG Authoring for Apache Airflow 3
