@@ -4,7 +4,7 @@
 
 Pipelines, data quality, and tabular datasets for research and ML teams.
 
-[LinkedIn](https://www.linkedin.com/in/youzaina001/) | [youzaina@youzaina.fr](mailto:youzaina@youzaina.fr)
+[LinkedIn](https://www.linkedin.com/in/youzaina001/) | [work@youzaina.fr](mailto:work@youzaina.fr)
 
 ## Experience
 
